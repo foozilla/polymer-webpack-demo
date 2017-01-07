@@ -4,7 +4,7 @@ polymer webpack demo using wc-loader
 ## Installation
 
 ```
-git clone git@github.com:aruntk/polymer-webpack-demo.git
+git clone https://github.com/aruntk/polymer-webpack-demo.git
 cd polymer-webpack-demo
 npm install
 bower install
